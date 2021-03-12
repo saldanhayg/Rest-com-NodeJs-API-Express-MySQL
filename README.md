@@ -59,4 +59,4 @@ Faça esse curso e:<br>
 
 ## Link deste curso  💻
 
- 🎯 <a href="https://cursos.alura.com.br/course/node-rest-api">Rest com NodeJS: API com Express e MySQL </a>
+ 🎯 <a href="https://cursos.alura.com.br/course/node-rest-api" target="_blank">Rest com NodeJS: API com Express e MySQL </a>
