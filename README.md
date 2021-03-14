@@ -28,8 +28,7 @@ Faça esse curso e:<br>
 ✅ **<a href="https://github.com/saldanhayg/FORMACAO-FRONT-END_ALURA/tree/main/4%20-%20HTML5%20e%20CSS3%20parte%204%20Avan%C3%A7ando%20no%20CSS">HTML5 e CSS3 parte 4: Avançando no CSS </a>**<br>
 ✅ **<a href="https://github.com/saldanhayg/FORMACAO-FRONT-END_ALURA/tree/main/12%20-%20Flexbox%20Posicione%20elementos%20na%20tela">Flexbox: Posicione elementos na tela </a>**<br>
 ✅ **<a href="https://github.com/saldanhayg/FORMACAO-FRONT-END_ALURA/tree/main/13%20-%20CSS%20Grid%20Simplificando%20layouts">CSS Grid: Simplificando layouts</a>**<br>
-✅ **<a href="	https://github.com/saldanhayg/Trabalhando-com-Layouts-Mobile
-">Layouts Responsivos: Trabalhando com layouts mobile</a>**<br>
+✅ **<a href="https://github.com/saldanhayg/Trabalhando-com-Layouts-Mobile">Layouts Responsivos: Trabalhando com layouts mobile</a>**<br>
 
 <u><strong>JavaScript e DOM</strong></u><br>
 ✅ **<a href="https://github.com/saldanhayg/FORMACAO_HTML-CSS_Alura/blob/main">JavaScript: Programando na linguagem da web</a>**<br>
