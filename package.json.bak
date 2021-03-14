@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saldanhayg/Rest-com-NodeJs-API-Express-MySQL"
+    "url": "git+https://github.com/juunegreiros/nodejs-api-rest.git"
   },
-  "author": "helio saldanha",
+  "author": "juliana negreiros",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saldanhayg/Rest-com-NodeJs-API-Express-MySQL/issues"
+    "url": "https://github.com/juunegreiros/nodejs-api-rest/issues"
   },
-  "homepage": "https://github.com/saldanhayg/Rest-com-NodeJs-API-Express-MySQL#readme",
+  "homepage": "https://github.com/juunegreiros/nodejs-api-rest#readme",
   "dependencies": {
     "consign": "^0.1.6",
     "express": "^4.17.1",
