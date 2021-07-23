@@ -1,8 +1,7 @@
 # REST COM NODEJS: API COM EXPRESS E MYSQL
 
 <h1>
-   <img src="https://scontent.fsjk2-1.fna.fbcdn.net/v/t1.0-9/121050398_3666298950068347_6139548403151897120_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=HBmWudlhq1AAX-upV5B&_nc_ht=scontent.fsjk2-1.fna&oh=fcf297d85103a5448542ad0566584ae1&oe=6071EFBC" border="0">
-</h1>
+<img src="https://i.ibb.co/GPHJ7jB/REST-COM-NODEJS-API-COM-EXPRESS-E-MYSQL.png" alt="REST-COM-NODEJS-API-COM-EXPRESS-E-MYSQL" border="0"></h1>
 
 Este curso faz parte da Formação Front End do programa Acelera Devs .
 
